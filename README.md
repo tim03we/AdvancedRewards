@@ -6,7 +6,7 @@ AdvancedRewards is a reward plugin that allows you to pick up your rewards after
 
 Command | Alias | Default
 --------- | ------ | -------
-/ban | reward | true
+/advancedrewards | reward | true
 
 # Config
 ```
